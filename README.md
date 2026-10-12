@@ -33,8 +33,8 @@
 
 ### 📊 TELEMETRI AKTIVITAS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&bg_color=030712&title_color=00F0FF&text_color=79C0FF&icon_color=00F0FF&border_color=00F0FF&hide_border=false" alt="Statistik GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&bg_color=030712&title_color=00F0FF&text_color=79C0FF&border_color=00F0FF&hide_border=false" alt="Bahasa Teratas" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahdimaju&show_icons=true&bg_color=030712&title_color=00F0FF&text_color=79C0FF&icon_color=00F0FF&border_color=00F0FF&hide_border=false" alt="Statistik GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdimaju&layout=compact&bg_color=030712&title_color=00F0FF&text_color=79C0FF&border_color=00F0FF&hide_border=false" alt="Bahasa Teratas" height="165" />
 </div>
 
 ---
