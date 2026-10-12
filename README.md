@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0b192c,100:00f0ff&height=210&section=header&text=SYSTEM%20STATUS:%20ONLINE&fontSize=36&fontColor=00f0ff&fontAlignY=38&desc=CORE%20OPERATOR%20//%20DEVELOPER&descAlignY=58&descAlign=50&descColor=79c0ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0b192c,100:00f0ff&height=220&section=header&text=SYSTEM%20STATUS:%20ONLINE&fontSize=38&fontColor=00f0ff&fontAlignY=38&desc=CORE%20OPERATOR%20//%20SOFTWARE%20ENGINEER&descAlignY=58&descAlign=50&descColor=79c0ff" width="100%" />
 </div>
+
+> **[SYS_LOG // v2.6.4]** Core telemetry active. Initializing high-performance engineering & algorithmic pipelines.
+
 ### ⚡ PROTOKOL UTAMA (ABOUT ME)
-* **Status:** Aktif membangun solusi rekayasa cerdas dan sistem terdistribusi.
-* **Fokus Riset:** Visi Komputer, Arsitektur Web Skalabel, dan Otomasi Sistem.
-* **Misi:** Mengintegrasikan komputasi berkinerja tinggi dengan antarmuka mutakhir.
+```text
+[IDENTIFIER]  : MAHDI
+[ROLE]        : SOFTWARE ENGINEER & SYSTEM ARCHITECT
+[STATUS]      : DEPLOYING CUTTING-EDGE SOLUTIONS
+[DIRECTIVES]  : COMPUTER VISION // FULL-STACK ARCHITECTURE // HIGH-CONCURRENCY
+```
+* **Operasional:** Fokus pada rekayasa perangkat lunak berskala besar, visi komputer, dan sistem terdistribusi.
+* **Misi Sistem:** Mengintegrasikan arsitektur berkinerja tinggi dengan antarmuka digital yang presisi.
 
 ---
 
@@ -13,6 +21,7 @@
   <img src="https://img.shields.io/badge/Python-050D1A?style=for-the-badge&logo=python&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/OpenCV-050D1A?style=for-the-badge&logo=opencv&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/TypeScript-050D1A?style=for-the-badge&logo=typescript&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/JavaScript-050D1A?style=for-the-badge&logo=javascript&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/React-050D1A?style=for-the-badge&logo=react&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/Node.js-050D1A?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/Docker-050D1A?style=for-the-badge&logo=docker&logoColor=00F0FF" />
@@ -24,18 +33,18 @@
 
 ### 📊 TELEMETRI AKTIVITAS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&bg_color=030712&title_color=00F0FF&text_color=79C0FF&icon_color=00F0FF&border_color=00F0FF&hide_border=false" alt="Statistik GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&bg_color=030712&title_color=00F0FF&text_color=79C0FF&border_color=00F0FF&hide_border=false" alt="Bahasa Teratas" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&bg_color=030712&title_color=00F0FF&text_color=79C0FF&icon_color=00F0FF&border_color=00F0FF&hide_border=false" alt="Statistik GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&bg_color=030712&title_color=00F0FF&text_color=79C0FF&border_color=00F0FF&hide_border=false" alt="Bahasa Teratas" height="165" />
 </div>
 
 ---
 
 ### 🛰️ PROYEK UNGGULAN
-| Modul Sistem | Deskripsi Teknis | Status |
+| MODUL SISTEM | ARSITEKTUR & STACK | STATUS |
 | :--- | :--- | :--- |
-| **PROJECT // NEURAL-CORE** | Arsitektur segmentasi citra berbasis visi komputer modern. | `ONLINE` |
-| **PROJECT // QUANTUM-API** | Infrastruktur RESTful berkinerja tinggi dengan keamanan ketat. | `DEPLOYED` |
-| **PROJECT // MATRIX-DASH** | Antarmuka interaktif pemantauan telemetri waktu nyata. | `STABLE` |
+| **`PROJECT // NEURAL-VISION`** | Pipeline ekstraksi fitur citra & inferensi waktu nyata berbasis OpenCV | `ONLINE` |
+| **`PROJECT // QUANTUM-CORE`** | Backend API mikro-layanan dengan protokol keamanan terenkripsi | `DEPLOYED` |
+| **`PROJECT // SYNAPSE-WEB`** | Platform aplikasi web dinamis dengan optimasi telemetri | `STABLE` |
 
 ---
 
@@ -45,9 +54,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-050D1A?style=for-the-badge&logo=linkedin&logoColor=00F0FF" />
   </a>
   <a href="mailto:email@domain.com">
-    <img src="https://img.shields.io/badge/Terminal_Mail-050D1A?style=for-the-badge&logo=gmail&logoColor=00F0FF" />
+    <img src="https://img.shields.io/badge/Direct_Mail-050D1A?style=for-the-badge&logo=gmail&logoColor=00F0FF" />
   </a>
   <a href="https://domainanda.com">
-    <img src="https://img.shields.io/badge/Portofolio-050D1A?style=for-the-badge&logo=google-chrome&logoColor=00F0FF" />
+    <img src="https://img.shields.io/badge/Portofolio_Node-050D1A?style=for-the-badge&logo=google-chrome&logoColor=00F0FF" />
   </a>
 </div>
